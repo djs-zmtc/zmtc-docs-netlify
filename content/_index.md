@@ -1,6 +1,8 @@
 ---
 title: 'Home'
 date: 2023-10-24
+authors:
+  - djs
 type: landing
 
 design:
@@ -42,15 +44,15 @@ sections:
       items:
         - statistic: "1M+"
           description: |
-            Websites built  
+            Websites built
             with Hugo Blox
         - statistic: "10k+"
           description: |
-            GitHub stars  
+            GitHub stars
             since 2016
         - statistic: "3k+"
           description: |
-            Discord community  
+            Discord community
             for support
     design:
       # Section background color (CSS class)
