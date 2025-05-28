@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Admin
+title: DJ Sweeney
 
 # Name pronunciation (optional)
-# name_pronunciation: Admin
+# name_pronunciation:
 
 # Full name (for SEO)
-first_name:
-last_name: Admin
+first_name: DJ
+last_name: Sweeney
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Site Administrator
+role: Owner
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,13 +25,13 @@ organizations:
     url: https://zmtcreative.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Site Administrator
+bio: Founder and Managing Member of ZMT Creative LLC.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:info@zmtc.co'
+    url: 'mailto:douglas.sweeney@zmtcreative.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -54,4 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Site Administrator
+TODO: Add info about DJ Sweeney
